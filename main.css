@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #748A9B;
+    width: 60%;
+    margin: 0 auto;
+}
+
+header {
+    display: table;
+    background-color: #a5c1d7;
+}
+.title {
+    padding-top: 15px;
+    display: table-cell;
+    width: 50%
+}
+
+.top-nav {
+    display: table-cell;
+    width: 50%;
+}
