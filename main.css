@@ -37,18 +37,15 @@ h3 {
 }
 
 a {
-    color: white;
-    font-size: 10px; 
+    color: #A7D3F6;
+    font-size: 12px; 
+    font-weight: bold;
 }
 
 .image-container {
     display: flex;
-    justify-content: space-between;
-    /* background-color: #8ea1b1; */
-}
-
-img {
-    flex-grow: 1;
+    justify-content: space-around;
+    background-color: #8ea1b1;
 }
 
 .column-left {
@@ -57,7 +54,6 @@ img {
     float: left;
     color: white;
     font-size: 14px;
-    /* background-color: #8ea1b1; */
 }
 
 .column-right {
@@ -66,7 +62,6 @@ img {
     color: white;
     font-size: 14px;
     padding: 10px;
-    /* background-color: #8ea1b1; */
 }
 
 .bottom-nav {
@@ -78,7 +73,7 @@ img {
     margin-right: 10px;
 }
 
-.amanda {
+.wrapper {
     background-color: #8ea1b1;
     height: 1275px;
 }
